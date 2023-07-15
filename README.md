@@ -1,0 +1,2 @@
+# GPUThrustReduction
+Reduce using Thrust
