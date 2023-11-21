@@ -1,0 +1,2 @@
+Prefix plugins/GPUThrustReduction/example/
+Plugin GPUThrustReduction inputfile parameters.txt outputfile none
